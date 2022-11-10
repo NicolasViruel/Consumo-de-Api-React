@@ -3,7 +3,7 @@
 ------------
 
 
-## *Nombre del proyecto: "Krustaceo Cascarudo"*
+## *Nombre del proyecto: "Consumo de Api Movie"*
 -  Proyecto basado en el Consumo de una Api https://www.themoviedb.org/, se realizo consumo de un Home que muestra con un Carrousel las distintas peliculas de estrenos, ademas se coloco una lista con Peliculas mas vistas y mejor Puntuadas, incluyendo ademas sus trailers.
 - Ademas se planifico Routes con React
 
